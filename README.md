@@ -18,7 +18,7 @@ This project demonstrates how to use **MongoDB with Node.js** to insert, query, 
 ### 2. Clone the Repository
 
 bash
-git clone https://github.com/your-username/plp-bookstore.git
+git clone https://github.com/PLP-MERN-Stack-Development/week-1-mongodb-fundamentals-assignment-Chukwunonso10
 cd plp-bookstore
 
 ### 3.  Install Dependencies

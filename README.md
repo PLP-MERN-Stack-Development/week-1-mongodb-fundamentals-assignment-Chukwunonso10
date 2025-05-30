@@ -3,6 +3,39 @@
 
 This assignment focuses on learning MongoDB fundamentals including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
 
+This project demonstrates how to use **MongoDB with Node.js** to insert, query, and manage book records.
+### Screenshot of Mongodb database
+![Books Collection](./screenshot/Screenshot%202025-05-29%20173111.png)
+
+## 🔧 Setup Instructions
+
+### 1. Prerequisites
+
+- Node.js installed
+- MongoDB installed and running locally (`mongodb://localhost:27017`)
+- MongoDB Compass (optional, for viewing database)
+
+### 2. Clone the Repository
+
+bash
+git clone https://github.com/your-username/plp-bookstore.git
+cd plp-bookstore
+
+### 3.  Install Dependencies
+
+npm install mongodb
+
+
+### 4. Insert Book Data into MongoDB
+
+node start
+
+
+### 5. Run Queries
+
+node queries.js
+
+
 ## Assignment Overview
 
 You will:
